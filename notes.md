@@ -5,6 +5,7 @@
 Monospaced fonts that look good in the terminal and editors
 
 [Hack](https://github.com/source-foundry/Hack)
+
 [Fira Mono](https://fonts.google.com/specimen/Fira+Mono)
 
 ## VS Code Themes
