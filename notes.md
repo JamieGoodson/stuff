@@ -17,3 +17,7 @@ Monospaced fonts that look good in the terminal and editors
 * [Spaceship Prompt](https://github.com/denysdovhan/spaceship-prompt)
 * [ZSH Autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 * [colorls](https://github.com/athityakumar/colorls)
+
+## macOS Apps
+* [Rectangle](https://rectangleapp.com/) (Move and resize windows)
+* [Unsplash Wallpapers](https://apps.apple.com/us/app/unsplash-wallpapers/id1284863847?mt=12)
