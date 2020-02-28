@@ -18,7 +18,7 @@ Monospaced fonts that look good in the terminal and editors
 * [Spaceship Prompt](https://github.com/denysdovhan/spaceship-prompt)
 * [ZSH Autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 * [colorls](https://github.com/athityakumar/colorls) (beautifies `ls`)
-* [TLDR pages](https://tldr.sh/) (simplified and community-driven man pages)
+* [TLDR pages](https://tldr.sh/) (simplified and community-driven `man` pages)
 * [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) (good looking git diffs)
 
 ## macOS Apps
