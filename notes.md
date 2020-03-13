@@ -21,10 +21,11 @@ Monospaced fonts that look good in the terminal and editors
 * [TLDR pages](https://tldr.sh/) (simplified and community-driven `man` pages)
 * [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) (good looking git diffs)
 
-## macOS Apps
-* [Rectangle](https://rectangleapp.com/) (move and resize windows)
-* [Unsplash Wallpapers](https://apps.apple.com/us/app/unsplash-wallpapers/id1284863847?mt=12)
-* [Sublime Merge](https://www.sublimemerge.com/) (git client, better UI than Sourcetree imo)
-
-## Windows Apps
-* [Terminus](https://eugeny.github.io/terminus/) (terminal)
+## Desktop Apps
+<!-- Use this to edit the table (File > Load table): https://www.tablesgenerator.com/markdown_tables -->
+| OS            | App                                                                                         | Description                                |
+|---------------|---------------------------------------------------------------------------------------------|--------------------------------------------|
+| macOS         | [Rectangle](https://rectangleapp.com/)                                                      | Move and resize windows                    |
+| macOS         | [Unsplash Wallpapers](https://apps.apple.com/us/app/unsplash-wallpapers/id1284863847?mt=12) |                                            |
+| Windows/macOS | [Sublime Merge](https://www.sublimemerge.com/)                                              | Git client, better UI than Sourcetree imo) |
+| Windows       | [Terminus](https://eugeny.github.io/terminus/)                                              | Terminal                                   |
