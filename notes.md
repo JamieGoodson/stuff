@@ -24,6 +24,7 @@ Monospaced fonts that look good in the terminal and editors
 ## macOS Apps
 * [Rectangle](https://rectangleapp.com/) (move and resize windows)
 * [Unsplash Wallpapers](https://apps.apple.com/us/app/unsplash-wallpapers/id1284863847?mt=12)
+* [Sublime Merge] https://www.sublimemerge.com/ (git client, better UI than Sourcetree imo)
 
 ## Windows Apps
 * [Terminus](https://eugeny.github.io/terminus/) (terminal)
