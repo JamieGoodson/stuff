@@ -28,4 +28,4 @@ Monospaced fonts that look good in the terminal and editors
 | macOS         | [Rectangle](https://rectangleapp.com/)                                                      | Move and resize windows                    |
 | macOS         | [Unsplash Wallpapers](https://apps.apple.com/us/app/unsplash-wallpapers/id1284863847?mt=12) |                                            |
 | Windows/macOS | [Sublime Merge](https://www.sublimemerge.com/)                                              | Git client, better UI than Sourcetree imo |
-| Windows       | [Terminus](https://eugeny.github.io/terminus/)                                              | Terminal                                   |
+| Windows       | [Terminal](https://github.com/microsoft/terminal)                                              | Terminal                                   |
