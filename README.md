@@ -23,9 +23,10 @@ Monospaced fonts that look good in the terminal and editors
 
 ## Desktop Apps
 <!-- Use this to edit the table (File > Load table): https://www.tablesgenerator.com/markdown_tables -->
-| OS            | App                                                                                         | Description                                |
-|---------------|---------------------------------------------------------------------------------------------|--------------------------------------------|
-| macOS         | [Rectangle](https://rectangleapp.com/)                                                      | Move and resize windows                    |
-| macOS         | [Unsplash Wallpapers](https://apps.apple.com/us/app/unsplash-wallpapers/id1284863847?mt=12) |                                            |
+| OS            | App                                                                                         | Description                               |
+|---------------|---------------------------------------------------------------------------------------------|-------------------------------------------|
+| macOS         | [Rectangle](https://rectangleapp.com/)                                                      | Move and resize windows                   |
+| macOS         | [Unsplash Wallpapers](https://apps.apple.com/us/app/unsplash-wallpapers/id1284863847?mt=12) |                                           |
 | Windows/macOS | [Sublime Merge](https://www.sublimemerge.com/)                                              | Git client, better UI than Sourcetree imo |
-| Windows       | [Terminal](https://github.com/microsoft/terminal)                                              | Terminal                                   |
+| Windows       | [Terminal](https://github.com/microsoft/terminal)                                           | Terminal                                  |
+| Windows       | [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)   | Run Linux terminal on Windows             |
