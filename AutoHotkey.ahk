@@ -1,5 +1,3 @@
-;Numpad3::
-
 ;Brightness 0%
 #`::
 Run "C:\Program Files (x86)\ScreenBright\ScreenBright.exe" -set brightness 0
