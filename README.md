@@ -26,6 +26,7 @@ Monospaced fonts that look good in the terminal and editors
 | OS            | App                                                                                         | Description                               |
 |---------------|---------------------------------------------------------------------------------------------|-------------------------------------------|
 | macOS         | [Rectangle](https://rectangleapp.com/)                                                      | Move and resize windows                   |
+| macOS         | [MonitorControl](https://github.com/MonitorControl/MonitorControl)                          | Control external monitor brightness with keyboard keys
 | macOS         | [Unsplash Wallpapers](https://apps.apple.com/us/app/unsplash-wallpapers/id1284863847?mt=12) |                                           |
 | Windows/macOS | [Sublime Merge](https://www.sublimemerge.com/)                                              | Git client, better UI than Sourcetree imo |
 | Windows       | [Terminal](https://github.com/microsoft/terminal)                                           | Terminal                                  |
