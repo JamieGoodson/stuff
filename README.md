@@ -25,9 +25,9 @@ Monospaced fonts that look good in the terminal and editors
 <!-- Use this to edit the table (File > Load table): https://www.tablesgenerator.com/markdown_tables -->
 | OS            | App                                                                                         | Description                               |
 |---------------|---------------------------------------------------------------------------------------------|-------------------------------------------|
-| macOS         | [Rectangle](https://rectangleapp.com/)                                                      | Move and resize windows                   |
+| macOS         | [Rectangle](https://rectangleapp.com/)                                                      | Essential Windows-like window management  |
 | macOS         | [MonitorControl](https://github.com/MonitorControl/MonitorControl)                          | Control external monitor brightness with keyboard keys
-| macOS         | [Unsplash Wallpapers](https://apps.apple.com/us/app/unsplash-wallpapers/id1284863847?mt=12) |                                           |
+| macOS         | [Unsplash Wallpapers](https://apps.apple.com/us/app/unsplash-wallpapers/id1284863847?mt=12) | Auto-changing wallpapers by Unsplash      |
 | Windows/macOS | [Sublime Merge](https://www.sublimemerge.com/)                                              | Git client, better UI than Sourcetree imo |
-| Windows       | [Terminal](https://github.com/microsoft/terminal)                                           | Terminal                                  |
-| Windows       | [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)   | Run Unix-like terminal on Windows             |
+| Windows       | [Terminal](https://github.com/microsoft/terminal)                                           | Official Windows Terminal                 |
+| Windows       | [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)   | Run Unix-like terminal on Windows         |
