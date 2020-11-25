@@ -1,5 +1,5 @@
 # Git aliases
-# source git.plugin.zsh
+# source ~/git.plugin.zsh
 
 # Make up/down arrow make suggestions based on history
 # (like in ohmyzsh)
