@@ -1,8 +1,12 @@
+### .zshrc file
+### Assumes ohmyzsh is not being used
+
+
 # Git aliases
 # source ~/git.plugin.zsh
 
 # Aliases
-alias ls='ls -la'
+# alias ls='ls -la'
 
 # Make up/down arrow make suggestions based on history
 # (like in ohmyzsh)
