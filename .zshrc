@@ -1,6 +1,9 @@
 # Git aliases
 # source ~/git.plugin.zsh
 
+# Aliases
+alias ls='ls -la'
+
 # Make up/down arrow make suggestions based on history
 # (like in ohmyzsh)
 # bindkey '^[[A' up-line-or-search
@@ -11,6 +14,7 @@
 # prompt spaceship
 
 # Spaceship options
+# https://github.com/denysdovhan/spaceship-prompt/blob/master/docs/Options.md
 # SPACESHIP_PROMPT_ADD_NEWLINE=false
 # SPACESHIP_PROMPT_SEPARATE_LINE=false
 # SPACESHIP_PACKAGE_SHOW=false
