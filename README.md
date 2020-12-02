@@ -14,7 +14,7 @@ Monospaced fonts that look good in the terminal and editors
 * [SF Mono](https://github.com/ZulwiyozaPutra/SF-Mono-Font)
 
 ## Terminal Packages
-* [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
+* [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) (I no longer use this)
 * [Spaceship Prompt](https://github.com/denysdovhan/spaceship-prompt)
 * [ZSH Autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 * [colorls](https://github.com/athityakumar/colorls) (beautifies `ls`)
