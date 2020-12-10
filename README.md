@@ -14,12 +14,12 @@ Monospaced fonts that look good in the terminal and editors
 * [SF Mono](https://github.com/ZulwiyozaPutra/SF-Mono-Font)
 
 ## Terminal Packages
-* [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) (I no longer use this)
 * [Spaceship Prompt](https://github.com/denysdovhan/spaceship-prompt)
 * [ZSH Autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 * [colorls](https://github.com/athityakumar/colorls) (beautifies `ls`)
 * [TLDR pages](https://tldr.sh/) (simplified and community-driven `man` pages)
 * [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) (good looking git diffs)
+* ~[ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)~
 
 ## Desktop Apps
 <!-- Use this to edit the table (File > Load table): https://www.tablesgenerator.com/markdown_tables -->
