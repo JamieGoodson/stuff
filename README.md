@@ -14,11 +14,15 @@ Monospaced fonts that look good in the terminal and editors
 * [SF Mono](https://github.com/ZulwiyozaPutra/SF-Mono-Font)
 
 ## Terminal Packages
-* [Spaceship Prompt](https://github.com/denysdovhan/spaceship-prompt)
-* [ZSH Autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
-* [colorls](https://github.com/athityakumar/colorls) (beautifies `ls`)
-* [TLDR pages](https://tldr.sh/) (simplified and community-driven `man` pages)
-* [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) (good looking git diffs)
+| Package                                                             | Description                                   |
+|---------------------------------------------------------------------|-----------------------------------------------|
+| [Spaceship Prompt](https://github.com/denysdovhan/spaceship-prompt) | Minimalistic and powerful zsh prompt          |
+| [colorls](https://github.com/athityakumar/colorls)                  | Beautifies `ls`                               |
+| [TLDR pages](https://tldr.sh/)                                      | Simplified community-driven `man` alternative |
+| [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)          | Git diffs that actually look good             |
+
+### Terminal packages (old list)
+* ~[ZSH Autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)~
 * ~[ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)~
 
 ## Desktop Apps
