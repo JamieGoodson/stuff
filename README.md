@@ -21,7 +21,7 @@ Monospaced fonts that look good in the terminal and editors
 | [TLDR pages](https://tldr.sh/)                                      | Simplified community-driven `man` alternative |
 | [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)          | Git diffs that actually look good             |
 
-#### Terminal packages (no longer used)
+#### Terminal Packages (no longer used)
 * [ZSH Autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 * [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 
