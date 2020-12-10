@@ -5,6 +5,9 @@
 # Git aliases
 # source ~/git.plugin.zsh
 
+# Run this once, manually
+# git config --global alias.diffc 'diff --cached'
+
 # Aliases
 # alias ls='ls -la'
 # alias nr='npm run'
