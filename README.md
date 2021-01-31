@@ -25,6 +25,11 @@ Monospaced fonts that look good in the terminal and editors
 * [ZSH Autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 * [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 
+## Useful Apps/CLI Tools
+| Package                                                             | Description                                   |
+|---------------------------------------------------------------------|-----------------------------------------------|
+| [ngrok](https://ngrok.com/)                                         | Generate a URL for localhost                  |
+
 ## Desktop Apps
 <!-- Use this to edit the table (File > Load table): https://www.tablesgenerator.com/markdown_tables -->
 | OS            | App                                                                                         | Description                               |
