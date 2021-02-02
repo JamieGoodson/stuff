@@ -13,6 +13,7 @@
 # Aliases
 # alias ls='ls -la'
 # alias nr='npm run'
+# alias gs='git status'
 
 # Make up/down arrow make suggestions based on history
 # (like in ohmyzsh)
