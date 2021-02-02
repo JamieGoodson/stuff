@@ -1,6 +1,8 @@
 ### .zshrc file
 ### Assumes ohmyzsh is not being used
 
+# Autocomplete (required for autocomplete suggestions)
+# autoload -Uz compinit && compinit
 
 # Git aliases
 # source ~/git.plugin.zsh
