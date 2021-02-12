@@ -1,6 +1,12 @@
 ### .zshrc file
 ### Assumes ohmyzsh is not being used
 
+# Make history persistent between sessions (useful for auto suggestions)
+# HISTFILE=~/.zsh_history
+# HISTSIZE=10000
+# SAVEHIST=10000
+# setopt appendhistory
+
 # Autocomplete (required for autocomplete suggestions)
 # autoload -Uz compinit && compinit
 
