@@ -1,17 +1,9 @@
 ### .zshrc file
 ### Assumes ohmyzsh is not being used
 
-# Make history persistent between sessions (useful for auto suggestions)
-# HISTFILE=~/.zsh_history
-# HISTSIZE=10000
-# SAVEHIST=10000
-# setopt appendhistory
-
-# Autocomplete (required for autocomplete suggestions)
-# autoload -Uz compinit && compinit
-
-# Git aliases
-# source ~/git.plugin.zsh
+# Install zplug: https://github.com/zplug/zplug
+# Load zplug plugins
+source ~/zplug-plugins.zsh
 
 # Run this once, manually
 # git config --global alias.diffc 'diff --cached'
@@ -30,7 +22,7 @@
 # autoload -U promptinit; promptinit
 # prompt spaceship
 
-# Spaceship options
+# Spaceship prompt options
 # https://github.com/denysdovhan/spaceship-prompt/blob/master/docs/Options.md
 # SPACESHIP_PROMPT_ADD_NEWLINE=false
 # SPACESHIP_PROMPT_SEPARATE_LINE=false
