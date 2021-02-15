@@ -1,4 +1,4 @@
-# Auto completion
+# Tab completions
 zplug "zsh-users/zsh-completions"
 
 # History
