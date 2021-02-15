@@ -2,7 +2,7 @@
 ### Assumes ohmyzsh is not being used
 
 # Install zplug: https://github.com/zplug/zplug
-# Load zplug plugins
+# Load zplug plugins (note: run `zplug install` once when opening terminal for first time)
 source ~/zplug-plugins.zsh
 
 # Run this once, manually
