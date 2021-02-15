@@ -5,7 +5,7 @@
 # Load zplug plugins (note: run `zplug install` once when opening terminal for first time)
 source ~/zplug-plugins.zsh
 
-# Preserve history between sessions
+# Preserve history between sessions (useful for autocompletions)
 # HISTSIZE=5000               # How many lines of history to keep in memory
 # HISTFILE=~/.zsh_history     # Where to save history to disk
 # SAVEHIST=5000               # Number of history entries to save to disk
