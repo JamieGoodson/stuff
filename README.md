@@ -4,6 +4,8 @@
 
 ## VS Code Themes
 * [Oceanic Next](https://github.com/voronianski/oceanic-next-color-scheme)
+* [Community Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-community-material-theme)
+* [GitHub Light Theme](https://marketplace.visualstudio.com/items?itemName=Hyzeta.vscode-theme-github-light)
 
 ## Monospaced Fonts
 Monospaced fonts that look good in the terminal and editors
