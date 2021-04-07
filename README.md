@@ -1,6 +1,7 @@
 ## iTerm Themes
 * [Oceanic Next](https://github.com/mhartington/oceanic-next-iterm)
 * [VS Code](https://github.com/tallpants/vscode-theme-iterm2)
+* [GitHub VS Code Theme for iTerm](https://github.com/cdalvaro/github-vscode-theme-iterm)
 
 ## VS Code Themes
 * [Oceanic Next](https://github.com/voronianski/oceanic-next-color-scheme)
