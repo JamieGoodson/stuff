@@ -3,7 +3,7 @@
 
 # Install zplug: https://github.com/zplug/zplug
 # Load zplug plugins (note: run `zplug install` once when opening terminal for first time)
-source ~/zplug-plugins.zsh
+source ~/.zplugrc
 
 # Run this once, manually
 # git config --global alias.diffc 'diff --cached'
@@ -38,3 +38,4 @@ source ~/zplug-plugins.zsh
 # SPACESHIP_PACKAGE_SHOW=false
 # SPACESHIP_NODE_SHOW=false
 # SPACESHIP_EXEC_TIME_SHOW=false
+# SPACESHIP_GCLOUD_SHOW=false
