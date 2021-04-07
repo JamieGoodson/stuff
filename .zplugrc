@@ -1,0 +1,17 @@
+### NOTE ###
+# When adding new plugins here, you must run `zplug install` after.
+
+# Tab completions
+zplug "zsh-users/zsh-completions"
+
+# History
+zplug "plugins/history", from:oh-my-zsh
+zplug "plugins/history-substring-search", from:oh-my-zsh
+
+# Git
+zplug "plugins/git", from:oh-my-zsh
+
+# Spaceship prompt
+zplug "denysdovhan/spaceship-prompt", use:spaceship.zsh, from:github, as:theme
+
+zplug load
