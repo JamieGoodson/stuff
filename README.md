@@ -40,6 +40,7 @@ Monospaced fonts that look good in the terminal and editors
 | macOS         | [Rectangle](https://rectangleapp.com/)                                                      | Essential Windows-like window management  |
 | macOS         | [MonitorControl](https://github.com/MonitorControl/MonitorControl)                          | Control external monitor brightness with keyboard keys
 | macOS         | [Unsplash Wallpapers](https://apps.apple.com/us/app/unsplash-wallpapers/id1284863847?mt=12) | Auto-changing wallpapers by Unsplash      |
+| macOS         | [SpotMenu](https://kmikiy.github.io/SpotMenu/)                                              | Shows Spotify song name in menubar        | 
 | macOS         | [eqMac](https://eqmac.app/)                                                                 | Free audio equalizer                      |
 | Windows/macOS | [Sublime Merge](https://www.sublimemerge.com/)                                              | Git client, better UI than Sourcetree imo |
 | Windows       | [Terminal](https://github.com/microsoft/terminal)                                           | Official Windows Terminal                 |
