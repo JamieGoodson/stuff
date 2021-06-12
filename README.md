@@ -11,7 +11,7 @@
 ## Monospaced Fonts
 Monospaced fonts that look good in the terminal and editors
 
-* [Firca Code](https://github.com/tonsky/FiraCode) (favourite)
+* [Fira Code](https://github.com/tonsky/FiraCode) (favourite)
 * [Monaco](https://en.wikipedia.org/wiki/Monaco_(typeface)) (system)
 * [Hack](https://github.com/source-foundry/Hack)
 * [SF Mono](https://github.com/ZulwiyozaPutra/SF-Mono-Font)
