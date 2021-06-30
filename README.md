@@ -45,5 +45,5 @@ Monospaced fonts that look good in the terminal and editors
 | Windows/macOS | [Sublime Merge](https://www.sublimemerge.com/)                                              | Git client, better UI than Sourcetree imo |
 | Windows       | [Terminal](https://github.com/microsoft/terminal)                                           | Official Windows Terminal                 |
 | Windows       | [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)   | Run Unix-like terminal on Windows         |
-| Windows       | [Equalizer APO](https://equalizerapo.com/)                                                  | Graphic equilizer                         |
+| Windows       | [Equalizer APO](https://sourceforge.net/projects/equalizerapo/)                             | Graphic equilizer                         |
 | Windows       | [Peace Equalizer](https://sourceforge.net/projects/peace-equalizer-apo-extension/)          | Graphic equilizer                         |
