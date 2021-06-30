@@ -46,3 +46,5 @@ Monospaced fonts that look good in the terminal and editors
 | Windows       | [Terminal](https://github.com/microsoft/terminal)                                           | Official Windows Terminal                 |
 | Windows       | [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)   | Run Unix-like terminal on Windows         |
 | Windows       | [Equalizer APO](https://sourceforge.net/projects/equalizerapo/) (+ [Peace Equalizer](https://sourceforge.net/projects/peace-equalizer-apo-extension/) extension)                             | Audio equalizer for input & output devices |
+| Windows       | [ScreenBright](https://www.softpedia.com/get/Desktop-Enhancements/Other-Desktop-Enhancements/ScreenBright.shtml) | Control monitor brightness |
+
