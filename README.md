@@ -49,4 +49,4 @@ Monospaced fonts that look good in the terminal and editors
 | Windows       | [ScreenBright](https://www.softpedia.com/get/Desktop-Enhancements/Other-Desktop-Enhancements/ScreenBright.shtml) | Control monitor brightness |
 
 ## Misc
-* [AutoEQ](https://github.com/jaakkopasanen/AutoEq/tree/master/results/oratory1990/harman_over-ear_2018/Philips%20Fidelio%20X2HR) - Provides EQ settings for various headphones to give them a flatter profile. Combine with EQ software such as EqualizerAPO.
+* [AutoEQ](https://github.com/jaakkopasanen/AutoEq/tree/master/results/oratory1990/harman_over-ear_2018/Philips%20Fidelio%20X2HR) - Provides EQ settings for various headphones to give them a flatter profile. Combine with EQ software such as EqualizerAPO (for best results, use [GraphicEQ](https://github.com/jaakkopasanen/AutoEq#equalizerapo)).
