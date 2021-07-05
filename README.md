@@ -49,6 +49,6 @@ Monospaced fonts that look good in the terminal and editors
 | Windows       | [ScreenBright](https://www.softpedia.com/get/Desktop-Enhancements/Other-Desktop-Enhancements/ScreenBright.shtml) | Control monitor brightness |
 
 ## Misc
-* [AutoEQ](https://github.com/jaakkopasanen/AutoEq/tree/master/results/oratory1990/harman_over-ear_2018/Philips%20Fidelio%20X2HR) - Provides EQ settings for various headphones to give them a more neutral profile (ie match the [Harman Curve](https://www.quora.com/In-audio-design-what-is-the-Harman-curve)). Combine with EQ software such as EqualizerAPO (for best results, use [GraphicEQ](https://github.com/jaakkopasanen/AutoEq#equalizerapo)).
+* [AutoEQ](https://github.com/jaakkopasanen/AutoEq/tree/master/results/oratory1990/harman_over-ear_2018/Philips%20Fidelio%20X2HR) - Provides EQ settings for various headphones to give them a more neutral profile (ie match the [Harman Curve](https://www.quora.com/In-audio-design-what-is-the-Harman-curve)). Combine with EQ software such as EqualizerAPO (for best results, use the [GraphicEQ](https://github.com/jaakkopasanen/AutoEq#equalizerapo) settings).
   * **Note:** Be sure to use the results from the `oratory1990` folder, instead of `rtings`, as they are [more accurate](https://www.reddit.com/r/oratory1990/comments/gkme9u/oratory_vs_rtings/fqsclc5?utm_source=share&utm_medium=web2x&context=3).
   * See Oratory1990's personal database here: [HeadphoneDatabase](https://www.headphonedatabase.com/oratory/headphones)
