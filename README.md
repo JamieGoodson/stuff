@@ -59,8 +59,11 @@ Monospaced fonts that look good in the terminal and editors
 * [Archivo](https://fonts.google.com/specimen/Archivo?query=archivo)
 * [Arimo](https://fonts.google.com/specimen/Arimo?query=Steve+Matteson)
 * [Public Sans](https://fonts.google.com/specimen/Public+Sans#standard-styles)
-* [IM Feel English SC](https://fonts.google.com/specimen/IM+Fell+English+SC) - Valheim font
 * [Steel Tongs](https://fonts2u.com/steeltongs.font) - Movie poster credits font
+
+### Serif
+* [IM Feel English SC](https://fonts.google.com/specimen/IM+Fell+English+SC) - Valheim font
+* [Adobe Caslon Pro](https://fonts.adobe.com/fonts/adobe-caslon)
 
 ## VSTs
 * Arturia Pigments
