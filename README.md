@@ -8,14 +8,6 @@
 * [Community Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-community-material-theme)
 * [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) (both dark and light themes are great)
 
-## Monospaced Fonts
-Monospaced fonts that look good in the terminal and editors
-
-* [Fira Code](https://github.com/tonsky/FiraCode) (favourite)
-* [Monaco](https://en.wikipedia.org/wiki/Monaco_(typeface)) (system)
-* [Hack](https://github.com/source-foundry/Hack)
-* [SF Mono](https://github.com/ZulwiyozaPutra/SF-Mono-Font)
-
 ## Terminal Packages
 | Package                                                             | Description                                   |
 |---------------------------------------------------------------------|-----------------------------------------------|
@@ -52,6 +44,23 @@ Monospaced fonts that look good in the terminal and editors
 * [AutoEQ](https://github.com/jaakkopasanen/AutoEq/tree/master/results/oratory1990/harman_over-ear_2018/Philips%20Fidelio%20X2HR) - Provides EQ settings for various headphones to give them a more neutral profile (ie match the [Harman Curve](https://www.quora.com/In-audio-design-what-is-the-Harman-curve)). Combine with EQ software such as EqualizerAPO (for best results, use the [GraphicEQ](https://github.com/jaakkopasanen/AutoEq#equalizerapo) settings).
   * **Note:** Be sure to use the results from the `oratory1990` folder, instead of `rtings`, as they are [more accurate](https://www.reddit.com/r/oratory1990/comments/gkme9u/oratory_vs_rtings/fqsclc5?utm_source=share&utm_medium=web2x&context=3).
   * See Oratory1990's personal database here: [HeadphoneDatabase](https://www.headphonedatabase.com/oratory/headphones)
+
+
+## Fonts
+### Monospace
+Monospaced fonts that look good in the terminal and editors
+
+* [Fira Code](https://github.com/tonsky/FiraCode) (favourite)
+* [Monaco](https://en.wikipedia.org/wiki/Monaco_(typeface)) (system)
+* [Hack](https://github.com/source-foundry/Hack)
+* [SF Mono](https://github.com/ZulwiyozaPutra/SF-Mono-Font)
+
+## Sans Serif
+* [Archivo](https://fonts.google.com/specimen/Archivo?query=archivo)
+* [Arimo](https://fonts.google.com/specimen/Arimo?query=Steve+Matteson)
+* [Public Sans](https://fonts.google.com/specimen/Public+Sans#standard-styles)
+* [IM Feel English SC](https://fonts.google.com/specimen/IM+Fell+English+SC) - Valheim font
+* [Steel Tongs](https://fonts2u.com/steeltongs.font) - Movie poster credits font
 
 ## VSTs
 * Arturia Pigments
