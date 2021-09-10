@@ -55,7 +55,7 @@ Monospaced fonts that look good in the terminal and editors
 * [Hack](https://github.com/source-foundry/Hack)
 * [SF Mono](https://github.com/ZulwiyozaPutra/SF-Mono-Font)
 
-## Sans Serif
+### Sans Serif
 * [Archivo](https://fonts.google.com/specimen/Archivo?query=archivo)
 * [Arimo](https://fonts.google.com/specimen/Arimo?query=Steve+Matteson)
 * [Public Sans](https://fonts.google.com/specimen/Public+Sans#standard-styles)
