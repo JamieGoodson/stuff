@@ -21,6 +21,7 @@
 * [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 
 ## Useful Apps/CLI Tools
+## CLI
 | Package                                                             | Description                                   |
 |---------------------------------------------------------------------|-----------------------------------------------|
 | [ngrok](https://ngrok.com/)                                         | Generate a URL for localhost                  |
