@@ -76,3 +76,4 @@ Monospaced fonts that look good in the terminal and editors
 * Valhalla Shimmer
 * Arturia Rev PLATE-140
 * iZotope Vinyl
+* ADSR Sample Manager (not a VST but a useful app for managing local samples/Splice)
