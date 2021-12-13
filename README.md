@@ -51,6 +51,11 @@
 ### Frequency Response Graph
 ![frequency-response-graph](https://user-images.githubusercontent.com/4729966/145583051-9fcd37d9-67f1-4f18-a05e-f0d8da49e618.png)
 
+## UI Component Libraries
+| Library                      | Required Framework |
+|------------------------------|--------------------|
+| [Reakit](https://reakit.io/) | React              |
+
 ## Fonts
 ### Monospace
 Monospaced fonts that look good in the terminal and editors
