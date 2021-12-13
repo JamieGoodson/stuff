@@ -21,12 +21,12 @@
 * [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 
 ## Useful Apps/CLI Tools
-## CLI
+### CLI
 | Package                                                             | Description                                   |
 |---------------------------------------------------------------------|-----------------------------------------------|
 | [ngrok](https://ngrok.com/)                                         | Generate a URL for localhost                  |
 
-## Desktop Apps
+### Desktop Apps
 <!-- Use this to edit the table (File > Load table): https://www.tablesgenerator.com/markdown_tables -->
 | OS            | App                                                                                         | Description                               |
 |---------------|---------------------------------------------------------------------------------------------|-------------------------------------------|
