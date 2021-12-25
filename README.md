@@ -90,6 +90,7 @@ Monospaced fonts that look good in the terminal and editors
 * [Upright 4-Mic Experiment](https://www.pianobook.co.uk/packs/upright-4-mic-experiment/) (Old Yamaha C108)
 * [Home Piano](https://www.pianobook.co.uk/packs/home-piano/)
 * [Bluthner Style 6](https://www.pianobook.co.uk/packs/bluthner-style-6-90513/)
+* [Boz SL Grand Lite](https://www.pianobook.co.uk/packs/boz-sl-grand-lite/)
 
 ### LABS
 * [Soft Piano](https://labs.spitfireaudio.com/soft-piano)
