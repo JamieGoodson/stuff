@@ -84,3 +84,11 @@ Monospaced fonts that look good in the terminal and editors
 * Arturia Rev PLATE-140
 * iZotope Vinyl
 * ADSR Sample Manager (not a VST but a useful app for managing local samples/Splice)
+
+## Pianobook / Spitfire LABS Instruments
+### Pianobook
+* [Upright 4-Mic Experiment](https://www.pianobook.co.uk/packs/upright-4-mic-experiment/)
+* [Home Piano](https://www.pianobook.co.uk/packs/home-piano/)
+
+### LABS
+* [Soft Piano](https://labs.spitfireaudio.com/soft-piano)
