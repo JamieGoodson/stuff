@@ -87,7 +87,7 @@ Monospaced fonts that look good in the terminal and editors
 
 ## Pianobook / Spitfire LABS Instruments
 ### Pianobook
-* [Upright 4-Mic Experiment](https://www.pianobook.co.uk/packs/upright-4-mic-experiment/)
+* [Upright 4-Mic Experiment](https://www.pianobook.co.uk/packs/upright-4-mic-experiment/) (Old Yamaha C108)
 * [Home Piano](https://www.pianobook.co.uk/packs/home-piano/)
 
 ### LABS
