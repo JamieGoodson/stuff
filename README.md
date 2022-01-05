@@ -34,9 +34,10 @@
 | macOS         | [MonitorControl](https://github.com/MonitorControl/MonitorControl)                          | Control external monitor brightness with keyboard keys
 | macOS         | [Unsplash Wallpapers](https://apps.apple.com/us/app/unsplash-wallpapers/id1284863847?mt=12) | Auto-changing wallpapers by Unsplash      |
 | macOS         | [SpotMenu](https://kmikiy.github.io/SpotMenu/)                                              | Shows Spotify song name in menubar        | 
-| macOS         | [eqMac](https://eqmac.app/) *(Not very good for speakers, in my tests)*                   | Free system-wide audio equalizer          |
+| macOS         | [eqMac](https://eqmac.app/) *(Not very good for speakers, in my tests)*                     | Free system-wide audio equalizer          |
 | macOS         | [CameraController](https://github.com/Itaybre/CameraController)                             | Control webcam settings                   |
 | macOS         | [Bartender](https://www.macbartender.com/)                                                  | Take control of your menu bar             |
+| macOS         | [Flow](https://flowapp.info/)                                                               | Pomodoro timer             |
 | Windows/macOS | [Sublime Merge](https://www.sublimemerge.com/)                                              | Git client, better UI than Sourcetree imo |
 | Windows       | [Terminal](https://github.com/microsoft/terminal)                                           | Official Windows Terminal                 |
 | Windows       | [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)   | Run Unix-like terminal on Windows         |
