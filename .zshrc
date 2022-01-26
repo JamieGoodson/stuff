@@ -14,6 +14,8 @@ source ~/.zplugrc
 # alias gs="git status"
 # alias gb="git branch --sort=-committerdate --format='[%(committerdate:short)] %(refname:short)'"
 # alias gplm="gco main && git pull && gco -"
+# alias gd="git diff"
+# alias gdc="git diff --cached"
 
 # Make up/down arrow make suggestions based on history
 # (like in ohmyzsh)
