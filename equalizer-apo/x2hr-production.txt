@@ -1,0 +1,4 @@
+# This is to try to recreate what I hear from studio speakers
+Device: Speakers Sound Blaster Z {08649122-7919-4fe7-9a15-9adb2cacedd8}
+Preamp: -3 dB
+GraphicEQ: 25 3; 40 3; 63 0; 100 0; 160 0; 250 0; 400 0; 630 0; 1000 0; 1600 0; 2500 0; 4000 -2; 6300 -3; 10000 -4; 16000 -4
