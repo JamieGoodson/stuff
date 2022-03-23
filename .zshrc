@@ -43,3 +43,11 @@ source ~/.zplugrc
 # SPACESHIP_NODE_SHOW=false
 # SPACESHIP_EXEC_TIME_SHOW=false
 # SPACESHIP_GCLOUD_SHOW=false
+
+# Custom two-line prompt. Looks like:
+# ➜  ~/projects/my-cool-app/src git:(main)
+# ➜
+# NEWLINE=$'\n'
+# PROMPT="%(?:%{$fg_bold[green]%}➜ :%{$fg_bold[red]%}➜ )"
+# PROMPT+=' %{$fg[cyan]%}%~%{$reset_color%} $(git_prompt_info)'
+# PROMPT+='${NEWLINE}%(?:%{$fg_bold[green]%}➜ :%{$fg_bold[red]%}➜ ) %{$reset_color%}'
