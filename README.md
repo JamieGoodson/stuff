@@ -59,6 +59,7 @@
   * **Note:** Be sure to use the results from the `oratory1990` folder, instead of `rtings`, as they are [more accurate](https://www.reddit.com/r/oratory1990/comments/gkme9u/oratory_vs_rtings/fqsclc5?utm_source=share&utm_medium=web2x&context=3).
   * See Oratory1990's personal database here: [HeadphoneDatabase](https://www.headphonedatabase.com/oratory/headphones)
   * For speakers, hardware bass/treble eq (on DAC/amp) seems superior.
+* [List of Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 
 ### Frequency Response Graph
 ![frequency-response-graph](https://user-images.githubusercontent.com/4729966/145583051-9fcd37d9-67f1-4f18-a05e-f0d8da49e618.png)
