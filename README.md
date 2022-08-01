@@ -39,6 +39,7 @@
 | macOS         | [Bartender](https://www.macbartender.com/)                                                  | Take control of your menu bar             |
 | macOS         | [Flow](https://flowapp.info/)                                                               | Pomodoro timer                            |
 | macOS         | [antipopd](https://github.com/mttrb/antipopd)                                               | Stops audio pops when soundcard sleeps    |
+| macOS         | [AlDente](https://github.com/davidwernhart/AlDente)                                         | Menu bar tool to limit maximum charging percentage (better than built-in macOS "Optimised charging")    |
 | Windows/macOS | [Sublime Merge](https://www.sublimemerge.com/)                                              | Git client, better UI than Sourcetree imo |
 | Windows       | [Terminal](https://github.com/microsoft/terminal)                                           | Official Windows Terminal                 |
 | Windows       | [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)   | Run Unix-like terminal on Windows         |
