@@ -12,7 +12,7 @@
 | Package                                                             | Description                                   |
 |---------------------------------------------------------------------|-----------------------------------------------|
 | [Spaceship Prompt](https://github.com/denysdovhan/spaceship-prompt) | Minimalistic and powerful zsh prompt          |
-| [colorls](https://github.com/athityakumar/colorls)                  | Beautifies `ls`                               |
+| [exa](https://the.exa.website/)                                     | A modern replacement for `ls`                 |
 | [TLDR pages](https://tldr.sh/)                                      | Simplified community-driven `man` alternative |
 | [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)          | Git diffs that actually look good             |
 
