@@ -27,6 +27,7 @@
 | [ngrok](https://ngrok.com/)                                         | Generate a URL for localhost                  |
 | [vhs](https://github.com/charmbracelet/vhs)                         | Create terminal gifs                          |
 | [asciinema](https://asciinema.org/)                                 | Record and share terminal sessions            |
+| [discord.sh](https://github.com/ChaoticWeg/discord.sh)              | CLI tool to send messages to Discord webhooks |
 
 ### Desktop Apps
 <!-- Use this to edit the table (File > Load table): https://www.tablesgenerator.com/markdown_tables -->
