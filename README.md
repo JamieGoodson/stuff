@@ -63,6 +63,7 @@
   * See Oratory1990's personal database here: [HeadphoneDatabase](https://www.headphonedatabase.com/oratory/headphones)
   * For speakers, hardware bass/treble eq (on DAC/amp) seems superior.
 * [List of Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
+* [ntfy.sh](https://ntfy.sh/) Send push notifications via POST
 
 ### Frequency Response Graph
 ![frequency-response-graph](https://user-images.githubusercontent.com/4729966/145583051-9fcd37d9-67f1-4f18-a05e-f0d8da49e618.png)
