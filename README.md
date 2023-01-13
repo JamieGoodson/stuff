@@ -34,7 +34,7 @@
 | OS            | App                                                                                         | Description                               |
 |---------------|---------------------------------------------------------------------------------------------|-------------------------------------------|
 | macOS         | [Rectangle](https://rectangleapp.com/)                                                      | Essential Windows-like window management  |
-| macOS         | [MonitorControl](https://github.com/MonitorControl/MonitorControl)                          | Control external monitor brightness with keyboard keys
+| macOS         | [Lunar](https://github.com/alin23/Lunar)                          | Control external monitor brightness with keyboard keys (for M1+ Macs)
 | macOS         | [Unsplash Wallpapers](https://apps.apple.com/us/app/unsplash-wallpapers/id1284863847?mt=12) | Auto-changing wallpapers by Unsplash      |
 | macOS         | [SpotMenu](https://kmikiy.github.io/SpotMenu/)                                              | Shows Spotify song name in menubar        | 
 | macOS         | [eqMac](https://eqmac.app/)                                                                 | Free system-wide audio equalizer          |
