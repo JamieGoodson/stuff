@@ -49,7 +49,7 @@
 | Windows       | [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)   | Run Unix-like terminal on Windows         |
 | Windows       | [Equalizer APO](https://sourceforge.net/projects/equalizerapo/) (+ optional [Peace Equalizer](https://sourceforge.net/projects/peace-equalizer-apo-extension/) extension)                             | Audio equalizer for input & output devices |
 | Windows       | [ScreenBright](https://www.softpedia.com/get/Desktop-Enhancements/Other-Desktop-Enhancements/ScreenBright.shtml) | Control monitor brightness |
-| Windows       | [QuickHDR](https://github.com/13thsymphony/QuickHdr) | Quick HDR |
+| Windows       | [QuickHDR](https://github.com/13thsymphony/QuickHdr) | Adds hotkey to toggle HDR mode on Windows |
 
 
 ## UI Component Libraries
