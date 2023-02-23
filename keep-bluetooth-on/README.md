@@ -1,6 +1,6 @@
 # Keep Bluetooth On
 
-A service that natively runs in the background and keeps turning the bluetooth on.
+A LaunchAgent (service) that natively runs in the background and keeps turning the bluetooth on.
 
 1. Install blueutil via homebrew - `brew install blueutil`
 2. Copy the `keep-bluetooth-on.plist` file into `~/Library/LaunchAgents/`
