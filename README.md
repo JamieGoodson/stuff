@@ -42,6 +42,7 @@
 | macOS         | [Bartender](https://www.macbartender.com/)                                                  | Take control of your menu bar             |
 | macOS         | [Flow](https://flowapp.info/)                                                               | Pomodoro timer                            |
 | macOS         | [AlDente](https://github.com/davidwernhart/AlDente)                                         | Menu bar tool to limit maximum charging percentage (better than built-in macOS "Optimised charging")    |
+| macOS         | [Caffeine](https://formulae.brew.sh/cask/caffeine)                                          | Menu bar app that prevents mac from sleeping
 | Windows/macOS | [Sublime Merge](https://www.sublimemerge.com/)                                              | Git client, better UI than Sourcetree imo |
 | Windows       | [Dimmer](https://www.nelsonpires.com/software/dimmer) | Screen dimmer/brightness controller (non-DDC). |
 | Windows       | [ScreenBright](https://www.softpedia.com/get/Desktop-Enhancements/Other-Desktop-Enhancements/ScreenBright.shtml) | Control monitor brightness via DDC |
