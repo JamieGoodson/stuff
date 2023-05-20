@@ -103,6 +103,7 @@ Monospaced fonts that look good in the terminal and editors
 * ADSR Sample Manager (not a VST but a useful app for managing local samples/Splice)
 * [BasiQ EQ](https://www.pluginboutique.com/product/2-Effects/16-EQ/1985-BasiQ/)
   * Can use with EqualizerAPO
+* [Blindfold EQ](https://www.audiothing.net/effects/blindfold-eq/)
 
 ## Pianobook / Spitfire LABS Instruments
 ### Pianobook
