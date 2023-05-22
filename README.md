@@ -104,6 +104,7 @@ Monospaced fonts that look good in the terminal and editors
 * [BasiQ EQ](https://www.pluginboutique.com/product/2-Effects/16-EQ/1985-BasiQ/)
   * Can use with EqualizerAPO
 * [Blindfold EQ](https://www.audiothing.net/effects/blindfold-eq/)
+* [FerricTDS - Tape Dynamics Simulator](https://www.kvraudio.com/product/ferrictds---tape-dynamics-simulator-by-variety-of-sound)
 
 ## Pianobook / Spitfire LABS Instruments
 ### Pianobook
