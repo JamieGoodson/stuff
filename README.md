@@ -44,7 +44,7 @@
 | macOS         | [AlDente](https://github.com/davidwernhart/AlDente)                                         | Menu bar tool to limit maximum charging percentage (better than built-in macOS "Optimised charging")    |
 | macOS         | [Caffeine](https://formulae.brew.sh/cask/caffeine)                                          | Menu bar app that prevents mac from sleeping
 | Windows/macOS | [Sublime Merge](https://www.sublimemerge.com/)                                              | Git client, better UI than Sourcetree imo |
-| Windows       | [ScreenDimmer](https://github.com/datbnh/ScreenDimmer) | Screen dimmer/brightness controller (non-DDC). Set hotketys via `ScreenDimmer.conf`  |
+| Windows       | [ScreenDimmer](https://github.com/datbnh/ScreenDimmer) | Screen dimmer/brightness controller (non-DDC). **Note:** Set hotketys via `ScreenDimmer.conf`  |
 | Windows       | [ScreenBright](https://www.softpedia.com/get/Desktop-Enhancements/Other-Desktop-Enhancements/ScreenBright.shtml) | Control monitor brightness via DDC |
 | Windows       | [Terminal](https://github.com/microsoft/terminal)                                           | Official Windows Terminal                 |
 | Windows       | [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)   | Run Unix-like terminal on Windows         |
