@@ -4,7 +4,7 @@ In this directory is a custom build of Raspotify. The only difference with the o
 ## Installation
 * Download the .deb file on your local machine and transfer it to the raspberry pi.
     * `scp raspotify_0.43.46~librespot.v0.4.2-f6c8506_arm64.deb pi@<the raspberry pi IP>:/home/pi/raspotify_arm64.deb`
-* On the raspberry pi, from the home directory, run `sudo apt install ./raspotify_0.43.46~librespot.v0.4.2-f6c8506_arm64.deb`.
+* SSH into the pi and run `sudo apt install ./raspotify_0.43.46~librespot.v0.4.2-f6c8506_arm64.deb`.
 * Raspotify should start running automatically after installing. You can check via `sudo systemctl status raspotify`
 
 ## Notes
