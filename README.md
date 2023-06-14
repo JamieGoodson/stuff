@@ -58,8 +58,9 @@
 | [Reakit](https://reakit.io/) | React              |
 
 ## Handy NPM Packages
-* [class-transformer](https://github.com/typestack/class-transformer)
-* [class-validator](https://github.com/typestack/class-validator)
+* ~[class-transformer](https://github.com/typestack/class-transformer)~
+* ~[class-validator](https://github.com/typestack/class-validator)~
+* [zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation
 
 ## Misc
 * [AutoEQ](https://github.com/jaakkopasanen/AutoEq/tree/master/results/oratory1990/harman_over-ear_2018/Philips%20Fidelio%20X2HR) - Provides EQ settings for various headphones to give them a more neutral profile (ie match the [Harman Curve](https://www.quora.com/In-audio-design-what-is-the-Harman-curve)). Combine with EQ software such as EqualizerAPO (for best results, use the [GraphicEQ](https://github.com/jaakkopasanen/AutoEq#equalizerapo) settings).
