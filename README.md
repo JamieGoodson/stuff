@@ -108,6 +108,8 @@ Monospaced fonts that look good in the terminal and editors
 * [Blindfold EQ](https://www.audiothing.net/effects/blindfold-eq/)
 * [FerricTDS - Tape Dynamics Simulator](https://www.kvraudio.com/product/ferrictds---tape-dynamics-simulator-by-variety-of-sound)
 * [AI Noise Suppression For Voice (FREE)](https://github.com/werman/noise-suppression-for-voice) (works great with Equalizer APO)
+* [Waves DeReverb](https://www.waves.com/plugins/clarity-vx-dereverb)
+  * [How To Convert Waves Plugin To VST2](https://www.youtube.com/watch?v=BTvb_O25yQE) (so can use with Equalizer APO)
 * [Goyo - Noise Suppression and De-reverb](https://goyo.app/) (works with Equalizer APO)
 
 ## Pianobook / Spitfire LABS Instruments
