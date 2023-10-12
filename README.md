@@ -71,7 +71,8 @@
 * [List of Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 * [ntfy.sh](https://ntfy.sh/) - Send push notifications via POST
   - To self-host, see the [github repo](https://github.com/binwiederhier/ntfy)
-* [Typesense](https://github.com/typesense/typesense) (Open Source alternative to Algolia - faster than ElasticSearch)
+* [Typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia (faster than ElasticSearch)
+* [CinePi](https://github.com/schoolpost/CinePI) - Open source cinema camera built on a Raspberry Pi
 
 ### Frequency Response Graph
 ![frequency-response-graph](https://user-images.githubusercontent.com/4729966/145583051-9fcd37d9-67f1-4f18-a05e-f0d8da49e618.png)
