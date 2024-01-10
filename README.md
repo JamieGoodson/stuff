@@ -73,6 +73,7 @@
 * [List of Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 * [ntfy.sh](https://ntfy.sh/) - Send push notifications via POST
   - To self-host, see the [github repo](https://github.com/binwiederhier/ntfy)
+  - Can be ran from script/CLI (eg `curl -d "Backup successful 😀" ntfy.sh/mytopic`)
 * [Typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia (faster than ElasticSearch)
 * [CinePi](https://github.com/schoolpost/CinePI) - Open source cinema camera built on a Raspberry Pi
 
