@@ -62,6 +62,7 @@
 * ~[class-transformer](https://github.com/typestack/class-transformer)~
 * ~[class-validator](https://github.com/typestack/class-validator)~
 * [zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation
+* [quicktype](https://quicktype.io/) - Convert JSON to Python/TypeScript/etc classes
 * [Google's zx](https://github.com/google/zx) - Write better CLI scripts in Node
 
 ## Misc
