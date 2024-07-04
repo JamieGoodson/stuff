@@ -78,6 +78,7 @@
   - Can be ran from script/CLI (eg `curl -d "Backup successful 😀" ntfy.sh/mytopic`)
 * [Typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia (faster than ElasticSearch)
 * [CinePi](https://github.com/schoolpost/CinePI) - Open source cinema camera built on a Raspberry Pi
+* [balenaSound](https://github.com/balena-io-experimental/balena-sound) - Enabling you to add multi-room audio streaming via Bluetooth, Airplay2, Spotify Connect to your Hi-Fi using just a Raspberry Pi
 
 ### Frequency Response Graph
 ![frequency-response-graph](https://user-images.githubusercontent.com/4729966/145583051-9fcd37d9-67f1-4f18-a05e-f0d8da49e618.png)
