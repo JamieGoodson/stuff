@@ -76,6 +76,7 @@
 * [ntfy.sh](https://ntfy.sh/) - Send push notifications via POST
   - To self-host, see the [github repo](https://github.com/binwiederhier/ntfy)
   - Can be ran from script/CLI (eg `curl -d "Backup successful 😀" ntfy.sh/mytopic`)
+* [Apprise](https://github.com/caronc/apprise) - Push notifications that work with just about every platform!
 * [Typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia (faster than ElasticSearch)
 * [CinePi](https://github.com/schoolpost/CinePI) - Open source cinema camera built on a Raspberry Pi
 * [balenaSound](https://github.com/balena-io-experimental/balena-sound) - Enabling you to add multi-room audio streaming via Bluetooth, Airplay2, Spotify Connect to your Hi-Fi using just a Raspberry Pi
