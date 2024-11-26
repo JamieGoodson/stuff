@@ -45,6 +45,7 @@
 | macOS         | [Caffeine](https://formulae.brew.sh/cask/caffeine)                                          | Menu bar app that prevents mac from sleeping
 | macOS         | [Mac Mouse Fix](https://macmousefix.com/)                                                   | Makes 3rd party mouse like Magic Mouse
 | macOS         | [BlackHole](https://github.com/ExistentialAudio/BlackHole)                                  | Pass audio to other applications with zero latency
+| macOS         | [macron](https://github.com/OwenMelbz/macron)                                               | ⏱ Minimal macOS GUI for managing cron jobs
 | Windows/macOS | [Sublime Merge](https://www.sublimemerge.com/)                                              | Git client, better UI than Sourcetree imo |
 | Windows       | [ScreenDimmer](https://github.com/datbnh/ScreenDimmer) | Screen dimmer/brightness controller (non-DDC). **Note:** Set hotketys via `ScreenDimmer.conf`  |
 | Windows       | [ScreenBright](https://www.softpedia.com/get/Desktop-Enhancements/Other-Desktop-Enhancements/ScreenBright.shtml) | Control monitor brightness via DDC |
