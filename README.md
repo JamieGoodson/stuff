@@ -38,7 +38,7 @@
 | Essential      | [Rectangle](https://rectangleapp.com/)                                                      | Essential Windows-like window management  |
 | Essential      | [Lunar](https://github.com/alin23/Lunar)                          | Control external monitor brightness with keyboard keys (for M1+ Macs. DDC & non-DDC) |
 | Essential      | [Caffeine](https://formulae.brew.sh/cask/caffeine)                                          | Menu bar app that prevents mac from sleeping
-| Essential      | [Mac Mouse Fix](https://macmousefix.com/)                                                   | Makes 3rd party mouse like Magic Mouse  |
+| Essential      | [Mac Mouse Fix](https://macmousefix.com/)                                                   | Makes 3rd party mouse like Magic Mouse + control Spaces  |
 | Essential      | [Bartender](https://www.macbartender.com/)                                                  | Take control of your menu bar             |
 | Essential      | [AlDente](https://github.com/davidwernhart/AlDente)                                         | Menu bar tool to limit maximum charging percentage (better than built-in macOS "Optimised charging")    |
 |                | [Unsplash Wallpapers](https://apps.apple.com/us/app/unsplash-wallpapers/id1284863847?mt=12) | Auto-changing wallpapers by Unsplash      |
