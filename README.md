@@ -30,29 +30,35 @@
 | [discord.sh](https://github.com/ChaoticWeg/discord.sh)              | CLI tool to send messages to Discord webhooks |
 
 ### Desktop Apps
+
+### macOS
 <!-- Use this to edit the table (File > Load table): https://www.tablesgenerator.com/markdown_tables -->
-| OS            | App                                                                                         | Description                               |
+| Essential?     | App                                                                                         | Description                               |
+|----------------|---------------------------------------------------------------------------------------------|-------------------------------------------|
+| Essential      | [Rectangle](https://rectangleapp.com/)                                                      | Essential Windows-like window management  |
+| Essential      | [Lunar](https://github.com/alin23/Lunar)                          | Control external monitor brightness with keyboard keys (for M1+ Macs. DDC & non-DDC) |
+| Essential      | [Caffeine](https://formulae.brew.sh/cask/caffeine)                                          | Menu bar app that prevents mac from sleeping
+| Essential      | [Mac Mouse Fix](https://macmousefix.com/)                                                   | Makes 3rd party mouse like Magic Mouse  |
+| Essential      | [Bartender](https://www.macbartender.com/)                                                  | Take control of your menu bar             |
+| Essential      | [AlDente](https://github.com/davidwernhart/AlDente)                                         | Menu bar tool to limit maximum charging percentage (better than built-in macOS "Optimised charging")    |
+|                | [Unsplash Wallpapers](https://apps.apple.com/us/app/unsplash-wallpapers/id1284863847?mt=12) | Auto-changing wallpapers by Unsplash      |
+|                | [SpotMenu](https://kmikiy.github.io/SpotMenu/)                                              | Shows Spotify song name in menubar        | 
+|                | [eqMac](https://eqmac.app/)                                                                 | Free system-wide audio equalizer          |
+|                | [CameraController](https://github.com/Itaybre/CameraController)                             | Control webcam settings                   | 
+|                | [Flow](https://flowapp.info/)                                                               | Pomodoro timer                            |
+|                | [BlackHole](https://github.com/ExistentialAudio/BlackHole)                                  | Pass audio to other applications with zero latency
+|                | [macron](https://github.com/OwenMelbz/macron)                                               | ⏱ Minimal macOS GUI for managing cron jobs
+
+### Windows
+| Essential?    | App                                                                                         | Description                               |
 |---------------|---------------------------------------------------------------------------------------------|-------------------------------------------|
-| macOS         | [Rectangle](https://rectangleapp.com/)                                                      | Essential Windows-like window management  |
-| macOS         | [Lunar](https://github.com/alin23/Lunar)                          | Control external monitor brightness with keyboard keys (for M1+ Macs. DDC & non-DDC) |
-| macOS         | [Unsplash Wallpapers](https://apps.apple.com/us/app/unsplash-wallpapers/id1284863847?mt=12) | Auto-changing wallpapers by Unsplash      |
-| macOS         | [SpotMenu](https://kmikiy.github.io/SpotMenu/)                                              | Shows Spotify song name in menubar        | 
-| macOS         | [eqMac](https://eqmac.app/)                                                                 | Free system-wide audio equalizer          |
-| macOS         | [CameraController](https://github.com/Itaybre/CameraController)                             | Control webcam settings                   |
-| macOS         | [Bartender](https://www.macbartender.com/)                                                  | Take control of your menu bar             |
-| macOS         | [Flow](https://flowapp.info/)                                                               | Pomodoro timer                            |
-| macOS         | [AlDente](https://github.com/davidwernhart/AlDente)                                         | Menu bar tool to limit maximum charging percentage (better than built-in macOS "Optimised charging")    |
-| macOS         | [Caffeine](https://formulae.brew.sh/cask/caffeine)                                          | Menu bar app that prevents mac from sleeping
-| macOS         | [Mac Mouse Fix](https://macmousefix.com/)                                                   | Makes 3rd party mouse like Magic Mouse
-| macOS         | [BlackHole](https://github.com/ExistentialAudio/BlackHole)                                  | Pass audio to other applications with zero latency
-| macOS         | [macron](https://github.com/OwenMelbz/macron)                                               | ⏱ Minimal macOS GUI for managing cron jobs
-| Windows/macOS | [Sublime Merge](https://www.sublimemerge.com/)                                              | Git client, better UI than Sourcetree imo |
-| Windows       | [ScreenDimmer](https://github.com/datbnh/ScreenDimmer) | Screen dimmer/brightness controller (non-DDC). **Note:** Set hotketys via `ScreenDimmer.conf`  |
-| Windows       | [ScreenBright](https://www.softpedia.com/get/Desktop-Enhancements/Other-Desktop-Enhancements/ScreenBright.shtml) | Control monitor brightness via DDC |
-| Windows       | [Terminal](https://github.com/microsoft/terminal)                                           | Official Windows Terminal                 |
-| Windows       | [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)   | Run Unix-like terminal on Windows         |
-| Windows       | [Equalizer APO](https://sourceforge.net/projects/equalizerapo/) (+ optional [Peace Equalizer](https://sourceforge.net/projects/peace-equalizer-apo-extension/) extension)                             | Audio equalizer for input & output devices |
-| Windows       | [QuickHDR](https://github.com/13thsymphony/QuickHdr) | Adds hotkey to toggle HDR mode on Windows |
+| Essential     | [ScreenDimmer](https://github.com/datbnh/ScreenDimmer) | Screen dimmer/brightness controller (non-DDC). **Note:** Set hotketys via `ScreenDimmer.conf`  |
+| Essential     | [Terminal](https://github.com/microsoft/terminal)                                           | Official Windows Terminal                 |
+| Essential     | [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)   | Run Unix-like terminal on Windows         |
+|               | [Sublime Merge](https://www.sublimemerge.com/)                                              | Git client, better UI than Sourcetree imo |
+|               | [ScreenBright](https://www.softpedia.com/get/Desktop-Enhancements/Other-Desktop-Enhancements/ScreenBright.shtml) | Control monitor brightness via DDC |
+|               | [Equalizer APO](https://sourceforge.net/projects/equalizerapo/) (+ optional [Peace Equalizer](https://sourceforge.net/projects/peace-equalizer-apo-extension/) extension)  | Audio equalizer for input & output devices |
+|               | [QuickHDR](https://github.com/13thsymphony/QuickHdr) | Adds hotkey to toggle HDR mode on Windows |
 
 
 ## UI Component Libraries
