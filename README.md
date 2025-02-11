@@ -88,6 +88,7 @@
 * [CinePi](https://github.com/schoolpost/CinePI) - Open source cinema camera built on a Raspberry Pi
 * [balenaSound](https://github.com/balena-io-experimental/balena-sound) - Enabling you to add multi-room audio streaming via Bluetooth, Airplay2, Spotify Connect to your Hi-Fi using just a Raspberry Pi
 * [Volumio](https://volumio.com/get-started/) - OS for Raspberry Pi enabling Spotify Connect and AirPlay
+* [SlidesCodeHighlighter](https://romannurik.github.io/SlidesCodeHighlighter/) - Code highlighter for Google Slides, docs, etc.
 
 ### Frequency Response Graph
 ![frequency-response-graph](https://user-images.githubusercontent.com/4729966/145583051-9fcd37d9-67f1-4f18-a05e-f0d8da49e618.png)
