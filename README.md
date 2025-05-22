@@ -48,6 +48,8 @@
 |                | [Flow](https://flowapp.info/)                                                               | Pomodoro timer                            |
 |                | [BlackHole](https://github.com/ExistentialAudio/BlackHole)                                  | Pass audio to other applications with zero latency
 |                | [macron](https://github.com/OwenMelbz/macron)                                               | ⏱ Minimal macOS GUI for managing cron jobs
+|                | [Stats](https://github.com/exelban/stats)                                                   | macOS system monitor in your menu bar
+
 
 ### Windows
 | Essential?    | App                                                                                         | Description                               |
