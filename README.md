@@ -99,8 +99,9 @@
 ### Monospace
 Monospaced fonts that look good in the terminal and editors
 
-* [Fira Code](https://github.com/tonsky/FiraCode) (favourite)
-* [Menlo](https://en.wikipedia.org/wiki/Menlo_(typeface)) (previous macOS default monospace font)
+* [SF Mono](https://developer.apple.com/fonts/) (macOS default, available as a free font)
+* [Fira Code](https://github.com/tonsky/FiraCode)
+* [Menlo](https://en.wikipedia.org/wiki/Menlo_(typeface)) (former macOS default monospace font)
 * [Monaco](https://en.wikipedia.org/wiki/Monaco_(typeface)) (system)
 * [Hack](https://github.com/source-foundry/Hack)
 * [SF Mono](https://github.com/ZulwiyozaPutra/SF-Mono-Font)
