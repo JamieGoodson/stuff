@@ -28,6 +28,7 @@
 | [vhs](https://github.com/charmbracelet/vhs)                         | Create terminal gifs                          |
 | [asciinema](https://asciinema.org/)                                 | Record and share terminal sessions            |
 | [discord.sh](https://github.com/ChaoticWeg/discord.sh)              | CLI tool to send messages to Discord webhooks |
+| [ffmime](https://github.com/junka/ffmime)                           | Get mime type and video codec for media files |
 
 ### Desktop Apps
 
