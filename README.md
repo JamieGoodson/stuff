@@ -50,6 +50,7 @@
 |                | [BlackHole](https://github.com/ExistentialAudio/BlackHole)                                  | Pass audio to other applications with zero latency
 |                | [macron](https://github.com/OwenMelbz/macron)                                               | ⏱ Minimal macOS GUI for managing cron jobs
 |                | [Stats](https://github.com/exelban/stats)                                                   | macOS system monitor in your menu bar
+|                | [Shottr](https://shottr.cc/)                                                                | Beautiful screenshot annotation + backdrop tool
 
 
 ### Windows
