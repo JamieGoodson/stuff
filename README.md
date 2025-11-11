@@ -52,6 +52,8 @@
 |                | [Stats](https://github.com/exelban/stats)                                                   | macOS system monitor in your menu bar
 |                | [Shottr](https://shottr.cc/)                                                                | Beautiful screenshot annotation + backdrop tool
 |                | [LuLu](https://objective-see.org/products/lulu.html)                                        | Great firewall (also open source)        |
+|                | [Free apps by Sindre Sorhus](https://sindresorhus.com/apps/free)                            | A collection of genuinely useful free apps        |
+
 
 ### Windows
 | Essential?    | App                                                                                         | Description                               |
