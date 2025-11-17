@@ -54,6 +54,7 @@
 |                | [LuLu](https://objective-see.org/products/lulu.html)                                        | Great firewall (also open source)        |
 |                | [Free apps by Sindre Sorhus](https://sindresorhus.com/apps/free)                            | A collection of genuinely useful free apps        |
 |                | [Keysmith](https://www.keysmith.app/)                                                       | Easy keyboard macros, nice UI      |
+|                | [Mullvad VPN](https://mullvad.net/en)                                                       | Cheap, trustworthy VPN                   |
 
 
 ### Windows
