@@ -56,7 +56,7 @@
 |                | [Keysmith](https://www.keysmith.app/)                                                       | Easy keyboard macros, nice UI             |
 |                | [Mullvad VPN](https://mullvad.net/en)                                                       | Cheap, trustworthy VPN                    |
 |                | [ImageOptim](https://imageoptim.com/mac)                                                    | Image compressor                          |
-|                | [TomatoBar]([https://imageoptim.com/mac](https://github.com/ivoronin/TomatoBar))            | Pomodoro timer in your menubar            |
+|                | [TomatoBar](https://github.com/ivoronin/TomatoBar)                                          | Pomodoro timer in your menubar            |
 
 
 ### Windows
