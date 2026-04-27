@@ -37,7 +37,7 @@
 | Essential?     | App                                                                                         | Description                               |
 |----------------|---------------------------------------------------------------------------------------------|-------------------------------------------|
 | Essential      | [Rectangle](https://rectangleapp.com/)                                                      | Essential Windows-like window management  |
-| Essential      | [Rectangle Pro](https://rectangleapp.com/pro/)                                              | Rectangle, but with ability to save window layouts  |
+| Essential      | [Rectangle Pro](https://rectangleapp.com/pro/)                                              | Rectangle, but with ability to save window layouts (doesn't work across Spaces - see Spencer)  |
 | Spencer        | [Spencer](https://macspencer.app/)                                                          | Save and restore window layouts across Spaces  |
 | Essential      | [Lunar](https://github.com/alin23/Lunar)                                                    | Control external monitor brightness with keyboard keys (for M1+ Macs. DDC & non-DDC) |
 | Essential      | [Caffeine](https://formulae.brew.sh/cask/caffeine)                                          | Menu bar app that prevents mac from sleeping
