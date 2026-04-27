@@ -44,6 +44,7 @@
 | Essential      | [Mac Mouse Fix](https://macmousefix.com/)                                                   | Makes 3rd party mouse like Magic Mouse + control Spaces  |
 | Essential      | [Bartender](https://www.macbartender.com/)                                                  | Take control of your menu bar             |
 | Essential      | [AlDente](https://github.com/davidwernhart/AlDente)                                         | Menu bar tool to limit maximum charging percentage (better than built-in macOS "Optimised charging")    |
+|                | [MeetingBar](https://meetingbar.app/)                                                       | Join meetings from your menu bar          |
 |                | [Unsplash Wallpapers](https://apps.apple.com/us/app/unsplash-wallpapers/id1284863847?mt=12) | Auto-changing wallpapers by Unsplash      |
 |                | [SpotMenu](https://kmikiy.github.io/SpotMenu/)                                              | Shows Spotify song name in menubar        | 
 |                | [eqMac](https://eqmac.app/)                                                                 | Free system-wide audio equalizer          |
