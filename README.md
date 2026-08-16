@@ -60,7 +60,8 @@
 |                | [Mullvad VPN](https://mullvad.net/en)                                                       | Cheap, trustworthy VPN                    |
 |                | [ImageOptim](https://imageoptim.com/mac)                                                    | Image compressor                          |
 |                | [TomatoBar](https://github.com/ivoronin/TomatoBar)                                          | Pomodoro timer in your menubar            |
-|                | [Recordly](https://github.com/webadderallorg/Recordly)                                       | Recording and editing screen captures with motion-driven presentation tools built in            |
+|                | [Recordly](https://github.com/webadderallorg/Recordly)                                      | Recording and editing screen captures with motion-driven presentation tools built in            |
+|                | [Radix](https://tryradix.app/)                                                              | Disk space analyzer (free and open-source)            |
 
 
 
