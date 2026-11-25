@@ -106,6 +106,7 @@
 * [Volumio](https://volumio.com/get-started/) - OS for Raspberry Pi enabling Spotify Connect and AirPlay
 * [SlidesCodeHighlighter](https://romannurik.github.io/SlidesCodeHighlighter/) - Code highlighter for Google Slides, docs, etc.
 * [Muzli](https://muz.li/) - Design inspiration Chrome extension
+* [button-sounds](https://github.com/joshwcomeau/button-sounds) - A collection of 50+ professionally-recorded multi-sampled clicks and toggles. Available as an NPM package.
 
 ### Frequency Response Graph
 ![frequency-response-graph](https://user-images.githubusercontent.com/4729966/145583051-9fcd37d9-67f1-4f18-a05e-f0d8da49e618.png)
